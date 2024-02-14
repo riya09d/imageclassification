@@ -1,4 +1,4 @@
-# imageclassification
+# Image classification
  **Image Classification using Convolutional Neural Network (CNN)**
 
 Empower your image recognition tasks with this Image Classification project, where a robust Convolutional Neural Network (CNN) model has been designed and developed using TensorFlow/Keras. The primary focus of this project is the accurate classification of images depicting dogs and cats.
